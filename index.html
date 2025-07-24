@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Form</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="bootstrap.bundle.min.js">
+</head>
+<style>
+    .card{
+        height: 500px;
+        width: 350px;
+    }
+</style>
+<body>
+    <div class="container p-5 d-grid justify-content-center align-items-center ">
+    <div class="login card mt-5 rounded-4 ">
+        <div class="card-header text-center text-light ">Login</div>
+        <div class="card-body py-4">
+            <form>
+                
+                <div class="mb-3">
+                    <label>Email</label>
+                    <input type="email" class="form-control" id="email" placeholder="Email Address" required>
+                </div>
+
+                <div class="mb-3">
+                    <label>Password</label>
+                    <input type="password" class="form-control" id="password" placeholder="Password" required>
+                </div>
+
+                <div class="row">
+                    <div class="col mb-3">
+                    <div class="form-check form-check-inline mx-2 ">
+                        <input class="form-check-input" type="checkbox" id="Check">
+                        <label class="form-check-label" for="check"> Remember me</label>
+                    </div>
+                    </div>
+
+                    <div class="col mb-3">
+                    <div class=" text-end"><a href="" class="text-decoration-none">Forget password?</a></div>
+                    </div>
+                </div>
+
+                <div class="mb-3">
+                    <button class="p-3 rounded-pill text-center mx-5 w-75">Login</button>
+                </div>
+
+                <div class="mb-3">
+                    <p class="p-2 m-3 text-center">If you don't have account? <a href="signup.html" >Sign up</a></p>
+                </div>
+            </form>
+        </div>
+        </div>    
+    </div>
+    </div>
+</body>
+</html>

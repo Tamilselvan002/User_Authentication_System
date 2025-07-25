@@ -36,7 +36,7 @@ Edit
 ### 🧾 Signup Page
 ![image alt](https://github.com/Tamilselvan002/User_Authentication_System/blob/7d4090fb0503eaf3b0f9bc5061dae559525b9f2f/Screenshot%20(44).png)
 
-![image alt](https://github.com/Tamilselvan-BE/Login_Signup/blob/c067685e947ebf2b7dfbdb92cd7f72b450de9d6c/Screenshot%20(45).png)
+![image alt](https://github.com/Tamilselvan002/User_Authentication_System/blob/484218d54318436ff8a2941de3971ec3a1a54f9b/Screenshot%20(45).png)
 
 ![image alt](https://github.com/Tamilselvan-BE/Login_Signup/blob/39936bdb2b04a43fdb0dd46838448be32e6f51a4/Screenshot%20(46).png)
 
